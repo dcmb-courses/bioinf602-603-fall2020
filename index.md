@@ -15,4 +15,6 @@ layout: page
 * [Single Cell]({{site.baseurl}}/Single_Cell/)
 * [Others]({{site.baseurl}}/Others/)
 
-### [Contributers]({{site.baseurl}}/Contributers/)
+
+Github repository originally forked from: https://github.com/GuanLab/Awesome-Bioinformatics
+
