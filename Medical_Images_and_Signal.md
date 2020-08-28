@@ -6,6 +6,11 @@ permalink: /Medical_Images_and_Signal/
 
 # MEDICAL IMAGES AND SIGNAL(ING)
 
+1. Oren Z Kraus, Jimmy Lei Ba, Brendan J Frey. Classifying and segmenting microscopy images with deep multiple instance learning.  Bioinformatics. 2016 32(12):i52-i59.
+[https://pubmed.ncbi.nlm.nih.gov/27307644/](https://pubmed.ncbi.nlm.nih.gov/27307644/)
+
+   >High-content screening (HCS) technologies have enabled large scale imaging experiments for studying cell biology and for drug screening. These systems produce hundreds of thousands of microscopy images per day and their utility depends on automated image analysis. Recently, deep learning approaches that learn feature representations directly from pixel intensity values have dominated object recognition challenges. These tasks typically have a single centered object per image and existing models are not directly applicable to microscopy datasets. Here we develop an approach that combines deep convolutional neural networks (CNNs) with multiple instance learning (MIL) in order to classify and segment microscopy images using only whole image level annotations. We introduce a new neural network architecture that uses MIL to simultaneously classify and segment microscopy images with populations of cells. We base our approach on the similarity between the aggregation function used in MIL and pooling layers used in CNNs. To facilitate aggregating across large numbers of instances in CNN feature maps we present the Noisy-AND pooling function, a new MIL operator that is robust to outliers. Combining CNNs with MIL enables training CNNs using whole microscopy images with image level labels. We show that training end-to-end MIL CNNs outperforms several previous methods on both mammalian and yeast datasets without requiring any segmentation steps. 
+
 1. Gevaert O, Mitchell LA, Achrol AS, Xu J, Echegaray S, Steinberg GK, Cheshier
 SH, Napel S, Zaharchuk G, Plevritis SK. Glioblastoma multiforme: exploratory
 radiogenomic analysis by using quantitative image features. Radiology. 2014
